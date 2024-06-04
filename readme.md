@@ -16,7 +16,7 @@ Physics-Informed Neural Networks (PINNs) have emerged as a powerful tool for sol
 
 - `docs/`
   - `thesis.pdf`: Complete thesis report
-  - `presentation`: Slides used for thesis defense. Find it here [text](https://www.canva.com/design/DAGHFFvpyUM/9LlI44cvoajoWKCo_3sNxg/edit?utm_content=DAGHFFvpyUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - `presentation`: Slides used for thesis defense. Find it here [Canva Ppt](https://www.canva.com/design/DAGHFFvpyUM/9LlI44cvoajoWKCo_3sNxg/edit?utm_content=DAGHFFvpyUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - `reference papers`: Some of the paper used as references for the project
   - `certificate.pdf`: Completion certificate
 
@@ -106,7 +106,7 @@ This repository is for a completed thesis project, so new contributions aren't e
 
 ## Contact
 
-[Manish Singh] - [manish.singh.mat19@itbhu.ac.in]
+Manish Singh - manish.singh.mat19@itbhu.ac.in
 
 
 ## Acknowledgments
